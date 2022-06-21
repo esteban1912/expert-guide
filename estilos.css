@@ -1,0 +1,96 @@
+*{
+  margin:px;
+  padding:0px;
+}
+
+div#general{
+      margin:auto;
+      margin-top:50px;
+      width:960;
+      height:1550px;
+      background-color:#F7DC6F;
+}
+
+div#anuncios{
+      float:right;
+      width:300px;
+      height:500px;
+      background-color:#B3B6B7;
+}
+
+div#cabecera{
+      margin-top:50px;
+      width:640px;
+      height:100px;
+      background-color:#5499C7;
+}
+
+div#body{
+      margin-top:60px;
+      width:640px;
+      height:1400px;
+      background-color:#EDBB99;
+}
+
+
+#red {
+  color:red;
+  background:#82E0AA;
+  border: blue 8px dashed;
+  text-align:center;
+}
+
+#h2{
+  color:#FFFFFF;
+  background-color:pink;
+  border: blue 5px dashed;
+  text-align:center;
+}
+
+#linea{
+   position: relative; 
+   top: 2px; 
+   border: none; 
+   height: 12px; 
+   background: black; 
+   margin-bottom: 50px; 
+}
+
+#p1{
+  text-align:center;
+  font-size: 20px;
+  
+}
+
+#telelatino{
+display:block;
+margin:auto;
+}
+
+#p2{
+  text-align:center;  
+  font-size:20px;
+}
+
+div#tv{
+      margin-top:50px;
+      width:640px;
+      height:500px;
+      background-color:#C0392B;
+}
+
+#h3{
+     text-align:center;
+     color:#FFFFFF;
+}
+
+#button{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:#D35400;
+        background:#638cb5;
+        border:0px;
+        width:150px;
+        height:150px;
+       }
